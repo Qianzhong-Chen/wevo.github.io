@@ -156,11 +156,41 @@ strong {
   text-underline-offset: 0.18em;
 }
 
-.anonymous-authors {
-  margin: 1.2rem 0 0;
-  color: var(--muted);
-  font-size: 1.03rem;
+.publication-authors {
+  margin: 1.3rem auto 0;
+  max-width: 900px;
+}
+
+.author-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25rem 1.25rem;
+  margin: 0;
+  color: #253631;
+  font-size: 1.08rem;
   font-weight: 600;
+}
+
+.affiliation-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.2rem 1.1rem;
+  margin: 0.45rem 0 0;
+  color: var(--muted);
+  font-size: 0.96rem;
+}
+
+.author-note {
+  margin: 0.3rem 0 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.publication-authors sup {
+  font-size: 0.68em;
+  margin-left: 0.08em;
 }
 
 .publication-links {

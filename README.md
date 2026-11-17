@@ -1,6 +1,6 @@
-# LMAO-World Project Page
+# WEVO Project Page
 
-Anonymous project page for **LMAO-World: Loco-Manipulation VLA Optimization inside a World Model**.
+Project page for **WEVO: World Model-Enabled VLA Optimization for Whole-Body Loco-Manipulation**.
 
 The site is static and self-contained. It uses no analytics, remote fonts, CDNs, or external JavaScript.
 
